@@ -6,7 +6,7 @@ I’m a researcher studying security threats and other interesting Internet phen
 
 I’m especially interested in the intersection of data science and security, and in the past have worked on projects related to anti-abuse, fraud, and malicious web app traffic detection. I also have [strong feelings](https://www.arepiechartsgood.info/) about pie charts.
 
-I've dabbled in triathlon (a few sprints, Olys, and a single 70.3 were enough for me!) but I'm mostly back to running these days. When I'm not staring at a screen, I'm probably lacing up to head outside and log some miles. I've completed multiple half marathons, marathons, self-supported 50Ks, and a few duration-based (6/12h) races. 
+I enjoy endurance sports and, while I'm primarily a runner, I've dabbled in triathlon up to the 70.3 distance. When I'm not staring at a screen, I'm probably lacing up to head outside and log some miles. I've completed multiple half marathons, marathons, self-supported 50Ks, and a few duration-based (6/12h) races. 
 
 
 
