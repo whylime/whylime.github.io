@@ -1,0 +1,63 @@
+baseURL = 'https://whyli.me/'
+languageCode = 'en-us'
+title = 'whyli.me'
+theme = 'archie'
+
+copyright = "© mle"
+
+# Code Highlight
+pygmentsstyle = "monokai"
+pygmentscodefences = true
+pygmentscodefencesguesssyntax = true
+
+paginate=3 # articles per page
+
+[params]
+mode="toggle" # color-mode → light,dark,toggle or auto
+useCDN=false # don't use CDNs for fonts and icons, instead serve them locally.
+subtitle = "Hi. I'm Emily. I study security threats and other interesting Internet phenomena. When I'm not doing that, I'm probably running. Or thinking about running."
+mathjax = true # enable MathJax support
+katex = true # enable KaTeX support
+
+[permalinks]
+    post = "/blog/:slug"
+
+
+# Social Tags
+
+[[params.social]]
+name = "GitHub"
+icon = "github"
+url = "https://github.com/emilyaustin"
+
+[[params.social]]
+name = "Mastodon"
+icon = "twitter"
+url = "https://infosec.exchange/@mle"
+
+[[params.social]]
+name = "LinkedIn"
+icon = "linkedin"
+url = "https://www.linkedin.com/in/emilylaustin/"
+
+# Main menu Items
+
+[[menu.main]]
+name = "Home"
+url = "/"
+weight = 1
+
+[[menu.main]]
+name = "Blog"
+url = "/blog"
+weight = 2
+
+[[menu.main]]
+name = "About"
+url = "/about"
+weight = 3
+
+#[[menu.main]]
+#name = "Tags"
+#url = "/tags"
+#weight = 4
