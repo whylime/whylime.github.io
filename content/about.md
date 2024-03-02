@@ -24,6 +24,8 @@ I enjoy endurance sports and, while I'm primarily a runner, I've dabbled in tria
 
 
 # Selected Media Mentions & Interviews
+[The Biggest Hack of 2023 Keeps Getting Bigger](https://www.wired.com/story/moveit-breach-victims/), _Wired_, October 2023.
+
 [The MOVEit ransomware reckoning has begun](https://www.washingtonpost.com/politics/2023/06/16/moveit-ransomware-reckoning-has-begun/), _The Cybersecurity 202, The Washington Post_, June 2023.
 
 [Energy Department among ‘several’ federal agencies hit by MOVEit breach](https://federalnewsnetwork.com/cybersecurity/2023/06/energy-department-among-several-federal-agencies-hit-by-moveit-breach/), _Federal News Network_, June 2023.
