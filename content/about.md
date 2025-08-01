@@ -11,6 +11,7 @@ I enjoy endurance sports and, while I'm primarily a runner, I've dabbled in tria
 
 
 # Selected Talks & Research
+[Turning Off the (Information) Flow: Working With the EPA to Secure Hundreds of Exposed Water HMIs](https://censys.com/blog/turning-off-the-information-flow-working-with-the-epa-to-secure-hundreds-of-exposed-water-hmis), _Censys Blog_, June 2025.
 
 [Defensive Counting: How to quantify ICS exposure on the Internet when the data is out to get you](https://www.youtube.com/live/Hiihv-HdfMk?si=6RUbeBtdCk6xZOPP&t=18127), _BSides Las Vegas_, August 2024.
 
