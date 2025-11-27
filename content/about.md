@@ -6,11 +6,13 @@ I’m a researcher studying security threats and other interesting Internet phen
 
 I’m especially interested in the intersection of data science and security, and in the past have worked on projects related to anti-abuse, fraud, and malicious web app traffic detection. I also have [strong feelings](https://www.arepiechartsgood.info/) about pie charts.
 
-I enjoy endurance sports and, while I'm primarily a runner, I've dabbled in triathlon up to the 70.3 distance. When I'm not staring at a screen, I'm probably lacing up to head outside and log some miles. I've completed multiple half marathons, marathons, self-supported 50Ks, and a few duration-based (6/12h) races. 
+I enjoy endurance sports and, while I'm primarily a runner, I've dabbled in triathlon up to the 70.3 distance. When I'm not staring at a screen, I'm probably lacing up to head outside and log some miles. I've completed multiple half marathons, marathons, self-supported 50Ks, and a few duration-based (6/8/12h) races. 
 
 
 
 # Selected Talks & Research
+[The Persistent Threat of Salt Typhoon: Tracking Exposures of Potentially Targeted Devices](https://www.youtube.com/watch?v=01kbz8AZgq4), _Centre For Cybersecurity Belgium | Quarterly Cyber Threat Report_, July 2025.
+
 [Turning Off the (Information) Flow: Working With the EPA to Secure Hundreds of Exposed Water HMIs](https://censys.com/blog/turning-off-the-information-flow-working-with-the-epa-to-secure-hundreds-of-exposed-water-hmis), _Censys Blog_, June 2025.
 
 [Defensive Counting: How to quantify ICS exposure on the Internet when the data is out to get you](https://www.youtube.com/live/Hiihv-HdfMk?si=6RUbeBtdCk6xZOPP&t=18127), _BSides Las Vegas_, August 2024.
@@ -23,6 +25,8 @@ I enjoy endurance sports and, while I'm primarily a runner, I've dabbled in tria
 
 
 # Selected Media Mentions & Interviews
+[A cybersecurity firm uncovered hundreds of exposed national water facilities](https://www.itbrew.com/stories/2025/06/11/a-cybersecurity-firm-uncovered-hundreds-of-exposed-national-water-facilities), _IT Brew_, June 2025.
+
 [Cyber Researchers Push Water, Oil Utilities to Fix Weak Spots](https://www.bloomberg.com/news/newsletters/2024-08-07/cyber-researchers-push-water-oil-utilities-to-fix-weak-spots?srnd=homepage-americas), _Bloomberg_, August 2024.
 
 [The Biggest Hack of 2023 Keeps Getting Bigger](https://www.wired.com/story/moveit-breach-victims/), _Wired_, October 2023.
